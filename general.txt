@@ -1,10 +1,12 @@
 # This blocklist is for general blocking - domains that are sketchy, suspicious, deceiving, or otherwise are not reputable.
 #########
-# This list is part of a series of crowd-sourced blocklists that are free and open for use by everyone.
+# This list is part of a series of blocklists maintained in my spare time that are free and open for use by everyone.
 # View the GitHub project to learn how to use and contribute.
 # Project home page: https://github.com/kitsapcreator/pihole-blocklists
 # ============================
 
+e629.net
+www.e629.net
 online-metrix.net
 src.ebay-us.com
 mooma.sh
@@ -141,5 +143,8 @@ thebostonexplosion.com
 thebostonmarathonattack.com
 thebostonmarathonbomb.com
 thebostonmarathonbombing.com
+warez.org
+warez.com
+warez.net
 
 # ============================
